@@ -1,4 +1,4 @@
-# must_have
+# must_have 머신러닝 딥러닝 문제해결 전략
 
 범주형 데이터 이진분류(Categorical Feature Encoding Challenge)
 - 타깃값 1에 속할 확률 예측
